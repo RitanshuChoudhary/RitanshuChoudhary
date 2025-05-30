@@ -1,9 +1,5 @@
 <!-- RitanshuChoudhary's GitHub Profile README -->
 
-<p align="center">
-  <!-- Replace with your custom banner image link -->
-  <img src="" alt="Flutter Developer" width="80%">
-</p>
 
 <h1 align="center">Hi there 👋, I'm Ritanshu Choudhary!</h1>
 
